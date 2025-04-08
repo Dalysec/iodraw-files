@@ -111,8 +111,11 @@
         <mxCell id="djZxT0G7OLbQd7RYLURh-30" value="测试团队" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="475" y="125" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="djZxT0G7OLbQd7RYLURh-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="djZxT0G7OLbQd7RYLURh-31" target="djZxT0G7OLbQd7RYLURh-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="djZxT0G7OLbQd7RYLURh-31" value="测试团队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="508" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="510" width="120" height="58" as="geometry" />
         </mxCell>
         <mxCell id="djZxT0G7OLbQd7RYLURh-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
