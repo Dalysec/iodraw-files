@@ -73,7 +73,7 @@
         <mxCell id="djZxT0G7OLbQd7RYLURh-20" value="交付交互试报告" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="349" y="328" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="djZxT0G7OLbQd7RYLURh-21" value="确认修复需求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="djZxT0G7OLbQd7RYLURh-21" value="确认修复情况" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="354" y="378" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="djZxT0G7OLbQd7RYLURh-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -96,7 +96,7 @@
         </mxCell>
         <mxCell id="djZxT0G7OLbQd7RYLURh-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="667.5" y="388.5" as="sourcePoint" />
+            <mxPoint x="700" y="389" as="sourcePoint" />
             <mxPoint x="512.5" y="389" as="targetPoint" />
           </mxGeometry>
         </mxCell>
