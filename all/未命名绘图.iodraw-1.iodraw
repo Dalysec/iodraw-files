@@ -108,8 +108,8 @@
         <mxCell id="djZxT0G7OLbQd7RYLURh-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="450" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="djZxT0G7OLbQd7RYLURh-30" value="&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); text-wrap-mode: wrap;&quot;&gt;测试&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); text-wrap-mode: wrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="485" y="120" width="50" height="40" as="geometry" />
+        <mxCell id="djZxT0G7OLbQd7RYLURh-30" value="&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); text-wrap-mode: wrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="500" y="125" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="djZxT0G7OLbQd7RYLURh-31" value="测试团队" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="450" y="508" width="120" height="58" as="geometry" />
@@ -136,6 +136,9 @@
         </mxCell>
         <mxCell id="djZxT0G7OLbQd7RYLURh-40" value="漏洞复测" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="560" y="428" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeqPNuxIJqOIaNmOfrJe-2" value="测试团队" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="38" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
