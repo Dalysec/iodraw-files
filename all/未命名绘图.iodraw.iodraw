@@ -92,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="djZxT0G7OLbQd7RYLURh-23" value="自动化扫描" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="288" width="80" height="30" as="geometry" />
+          <mxGeometry x="550" y="298" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
