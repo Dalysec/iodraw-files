@@ -61,7 +61,7 @@
         <mxCell id="OChTS2NyAc7KMaXPeMqp-6" value="&lt;span&gt;Stage 3&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1600" y="340" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OChTS2NyAc7KMaXPeMqp-7" value="&lt;h1&gt;&lt;pre style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; font-weight: 400; -webkit-tap-highlight-color: transparent; color: rgba(0, 0, 0, 0.88); font-size: 14px; text-align: start; background-color: rgb(255, 255, 255); max-height: calc(-200px + 80vh); overflow-y: auto; padding: 16px; user-select: text !important;&quot;&gt;测试工具链配置&lt;/pre&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+        <mxCell id="OChTS2NyAc7KMaXPeMqp-7" value="&lt;h1&gt;&lt;pre style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; font-weight: 400; -webkit-tap-highlight-color: transparent; color: rgba(0, 0, 0, 0.88); font-size: 14px; text-align: start; background-color: rgb(255, 255, 255); max-height: calc(-200px + 80vh); overflow-y: auto; padding: 16px; user-select: text !important;&quot;&gt;自动+人工渗透&lt;/pre&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1091.5" y="425" width="137" height="60" as="geometry" />
         </mxCell>
       </root>
