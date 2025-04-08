@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="djZxT0G7OLbQd7RYLURh-1" value="客户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4987a7;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="djZxT0G7OLbQd7RYLURh-1" value="客户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="250" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="djZxT0G7OLbQd7RYLURh-5" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
