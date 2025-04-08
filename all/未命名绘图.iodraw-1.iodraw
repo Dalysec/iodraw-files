@@ -137,7 +137,7 @@
         <mxCell id="djZxT0G7OLbQd7RYLURh-40" value="漏洞复测" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="560" y="428" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZeqPNuxIJqOIaNmOfrJe-2" value="&lt;font color=&quot;#ffffff&quot;&gt;测试团队&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZeqPNuxIJqOIaNmOfrJe-2" value="测试团队" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="475" y="125" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
