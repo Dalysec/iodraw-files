@@ -38,7 +38,7 @@
           <mxGeometry x="366.5" y="320" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-17" value="&lt;h1&gt;&lt;pre style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; font-weight: 400; -webkit-tap-highlight-color: transparent; color: rgba(0, 0, 0, 0.88); font-size: 14px; text-align: start; background-color: rgb(255, 255, 255); max-height: calc(-200px + 80vh); overflow-y: auto; padding: 16px; user-select: text !important;&quot;&gt;威胁建模（STRIDE）&lt;/pre&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="545" y="430" width="215" height="120" as="geometry" />
+          <mxGeometry x="545" y="430" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-18" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="773" y="250" width="215" height="120" as="geometry" />
