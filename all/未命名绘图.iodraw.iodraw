@@ -13,9 +13,6 @@
         <mxCell id="djZxT0G7OLbQd7RYLURh-6" value="客户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="508" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="djZxT0G7OLbQd7RYLURh-8" value="测试团队" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="475" y="497" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="djZxT0G7OLbQd7RYLURh-9" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="501" width="120" height="60" as="geometry" />
         </mxCell>
@@ -25,9 +22,9 @@
             <mxPoint x="310" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="djZxT0G7OLbQd7RYLURh-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="djZxT0G7OLbQd7RYLURh-29">
+        <mxCell id="djZxT0G7OLbQd7RYLURh-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="djZxT0G7OLbQd7RYLURh-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="480" as="sourcePoint" />
+            <mxPoint x="510" y="500" as="sourcePoint" />
             <mxPoint x="507.97" y="181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -115,7 +112,7 @@
           <mxGeometry x="475" y="125" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="djZxT0G7OLbQd7RYLURh-31" value="测试团队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="507" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="508" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="djZxT0G7OLbQd7RYLURh-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
