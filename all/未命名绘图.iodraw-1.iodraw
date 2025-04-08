@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="djZxT0G7OLbQd7RYLURh-1" value="客户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="djZxT0G7OLbQd7RYLURh-1" value="客户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="250" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="djZxT0G7OLbQd7RYLURh-5" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="640" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="djZxT0G7OLbQd7RYLURh-6" value="客户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="djZxT0G7OLbQd7RYLURh-6" value="客户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="250" y="508" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="djZxT0G7OLbQd7RYLURh-9" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
@@ -111,7 +111,7 @@
         <mxCell id="djZxT0G7OLbQd7RYLURh-30" value="&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); text-wrap-mode: wrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="500" y="125" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="djZxT0G7OLbQd7RYLURh-31" value="测试团队" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="djZxT0G7OLbQd7RYLURh-31" value="测试团队" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="450" y="508" width="120" height="58" as="geometry" />
         </mxCell>
         <mxCell id="djZxT0G7OLbQd7RYLURh-33" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
