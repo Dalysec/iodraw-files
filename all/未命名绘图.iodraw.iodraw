@@ -101,7 +101,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="djZxT0G7OLbQd7RYLURh-25" value="人工红队测试" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="318" width="100" height="30" as="geometry" />
+          <mxGeometry x="540" y="320" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="djZxT0G7OLbQd7RYLURh-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="240" as="sourcePoint" />
+            <mxPoint x="530" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="djZxT0G7OLbQd7RYLURh-27" value="" style="shape=message;html=1;outlineConnect=0;" vertex="1" parent="djZxT0G7OLbQd7RYLURh-26">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
