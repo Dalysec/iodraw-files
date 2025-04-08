@@ -7,9 +7,6 @@
         <mxCell id="djZxT0G7OLbQd7RYLURh-1" value="客户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="djZxT0G7OLbQd7RYLURh-3" value="测试团队" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="475" y="148" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="djZxT0G7OLbQd7RYLURh-5" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="100" width="120" height="60" as="geometry" />
         </mxCell>
@@ -31,10 +28,10 @@
             <mxPoint x="310" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="djZxT0G7OLbQd7RYLURh-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.471;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="djZxT0G7OLbQd7RYLURh-3">
+        <mxCell id="djZxT0G7OLbQd7RYLURh-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.471;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="450" as="sourcePoint" />
-            <mxPoint x="510" y="210" as="targetPoint" />
+            <mxPoint x="507.97" y="181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="djZxT0G7OLbQd7RYLURh-12" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="djZxT0G7OLbQd7RYLURh-9">
@@ -115,7 +112,10 @@
           <mxGeometry x="540" y="348" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="djZxT0G7OLbQd7RYLURh-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="djZxT0G7OLbQd7RYLURh-30" value="测试团队" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="125" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
