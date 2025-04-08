@@ -87,12 +87,18 @@
         </mxCell>
         <mxCell id="djZxT0G7OLbQd7RYLURh-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="342.5" as="sourcePoint" />
-            <mxPoint x="670" y="342.5" as="targetPoint" />
+            <mxPoint x="510" y="328" as="sourcePoint" />
+            <mxPoint x="670" y="328" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="djZxT0G7OLbQd7RYLURh-23" value="自动化扫描" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="298" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="djZxT0G7OLbQd7RYLURh-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="338" as="sourcePoint" />
+            <mxPoint x="680" y="338" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
