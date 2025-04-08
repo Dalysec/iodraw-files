@@ -80,7 +80,7 @@
           <mxGeometry x="1910" y="425" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="OChTS2NyAc7KMaXPeMqp-15" value="&lt;h1&gt;&lt;pre style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; font-weight: 400; -webkit-tap-highlight-color: transparent; color: rgba(0, 0, 0, 0.88); font-size: 14px; text-align: start; background-color: rgb(255, 255, 255); max-height: calc(-200px + 80vh); overflow-y: auto; padding: 16px; user-select: text !important;&quot;&gt;交付报告&lt;/pre&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1906.5" y="317.5" width="167" height="65" as="geometry" />
+          <mxGeometry x="1906.5" y="317.5" width="103.5" height="52.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
