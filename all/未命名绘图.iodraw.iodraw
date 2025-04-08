@@ -117,6 +117,17 @@
         <mxCell id="djZxT0G7OLbQd7RYLURh-31" value="测试团队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="482" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="djZxT0G7OLbQd7RYLURh-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="400" as="sourcePoint" />
+            <mxPoint x="522.5" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="djZxT0G7OLbQd7RYLURh-34" value="" style="shape=message;html=1;outlineConnect=0;" vertex="1" parent="djZxT0G7OLbQd7RYLURh-33">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-24" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
