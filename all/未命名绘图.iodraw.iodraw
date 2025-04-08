@@ -47,7 +47,7 @@
           <mxGeometry x="1030" y="395" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OChTS2NyAc7KMaXPeMqp-2" value="&lt;span&gt;Stage 3&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="583" y="350" width="160" height="40" as="geometry" />
+          <mxGeometry x="1080" y="340" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
