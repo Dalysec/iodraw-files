@@ -108,7 +108,7 @@
         <mxCell id="djZxT0G7OLbQd7RYLURh-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="450" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="djZxT0G7OLbQd7RYLURh-30" value="&lt;span style=&quot;color: rgb(255, 255, 255); text-wrap-mode: wrap;&quot;&gt;测试团队&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" parent="1" vertex="1">
+        <mxCell id="djZxT0G7OLbQd7RYLURh-30" value="&lt;span style=&quot;color: rgb(255, 255, 255); text-wrap-mode: wrap;&quot;&gt;测试团队&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-165;" parent="1" vertex="1">
           <mxGeometry x="475" y="125" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="djZxT0G7OLbQd7RYLURh-31" value="测试团队" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
